@@ -1,0 +1,14 @@
+{
+  "${modID}:ThisIsAKnifePower": {
+    "NAME": "This is a knife",
+    "DESCRIPTIONS": [
+      "Whenever a #yshiv is drawn, increase its damage by #b", "and draw #b", " cards."
+    ]
+  },
+  "${modID}:MulticastPower": {
+    "NAME": "Multicast",
+    "DESCRIPTIONS": [
+      "Whenever a skill is played, has a ", "% chance to play it again, up to ", " times."
+    ]
+  }
+}
