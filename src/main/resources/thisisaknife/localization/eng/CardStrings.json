@@ -1,10 +1,14 @@
 {
-  "${modID}:ThisIsAKnife": {
-    "NAME": "This is a knife",
-    "DESCRIPTION": "Whenever a shiv is drawn, increase its damage by !M! and draw !M! cards."
-  },
   "${modID}:MulticastCard": {
     "NAME": "Multicast",
     "DESCRIPTION": "Whenever a skill is played, has a 40% chance to play an extra copy."
+  },
+  "${modID}:RecklessSpeedCard": {
+    "NAME": "Reckless Speed",
+    "DESCRIPTION": "Gain 1 [E] at the start of your turn. Lose 1 strength after every attack played for the remainder of that turn."
+  },
+  "${modID}:ThisIsAKnife": {
+    "NAME": "This is a knife",
+    "DESCRIPTION": "Whenever a shiv is drawn, increase its damage by !M! and draw !M! cards."
   }
 }

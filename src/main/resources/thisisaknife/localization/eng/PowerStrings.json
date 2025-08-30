@@ -1,14 +1,20 @@
 {
-  "${modID}:ThisIsAKnifePower": {
-    "NAME": "This is a knife",
-    "DESCRIPTIONS": [
-      "Whenever a #yshiv is drawn, increase its damage by #b", "and draw #b", " cards."
-    ]
-  },
   "${modID}:MulticastPower": {
     "NAME": "Multicast",
     "DESCRIPTIONS": [
       "Whenever a skill is played, has a ", "% chance to play it again, up to ", " times."
+    ]
+  },
+  "${modID}:RecklessSpeedPower": {
+    "NAME": "Reckless Speed",
+    "DESCRIPTIONS": [
+      "Gain !M! [E] at the start of your turn. Every time you play an attack, lose !M! strength for the remainder of the turn."
+    ]
+  },
+  "${modID}:ThisIsAKnifePower": {
+    "NAME": "This is a knife",
+    "DESCRIPTIONS": [
+      "Whenever a #yshiv is drawn, increase its damage by #b", "and draw #b", " cards."
     ]
   }
 }
