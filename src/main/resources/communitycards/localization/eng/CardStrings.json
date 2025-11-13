@@ -1,0 +1,32 @@
+{
+  "${modID}:MulticastCard": {
+    "NAME": "Multicast",
+    "DESCRIPTION": "Whenever a skill is played, has a 40% chance to play an extra copy !M! time.",
+    "UPGRADE_DESCRIPTION": "Whenever a skill is played, has a 40% chance to play an extra copy !M! times."
+  },
+  "${modID}:RecklessSpeedCard": {
+    "NAME": "Reckless Speed",
+    "DESCRIPTION": "Gain 1 [E] at the start of your turn. Lose 1 strength after every attack played for the remainder of that turn."
+  },
+  "${modID}:ThisIsAKnife": {
+    "NAME": "This is a Knife",
+    "DESCRIPTION": "Whenever a shiv is drawn, increase its damage by !M! and draw !M! cards."
+  },
+  "${modID}:KiStrikesCard": {
+    "NAME": "Ki Strikes",
+    "DESCRIPTION": "Whenever an enemy is attacked, apply !M! #bMark."
+  },
+  "${modID}:ChakraRealignmentCard": {
+    "NAME": "Chakra Realignment",
+    "DESCRIPTION": "Deal !D! damage. NL Apply Mark equal to unblocked damage dealt."
+  },
+  "${modID}:AbsorbSpiritCard": {
+    "NAME": "Absorb Spirit",
+    "DESCRIPTION": "Apply !M! Mark. NL Absorb 1 Health per !${modID}:MARK_PER_HP! Mark. NL *Exhaust"
+  },
+  "${modID}:FlickCard": {
+    "NAME": "Flick",
+    "DESCRIPTION": "ALL enemies lose HP equal to their *Mark. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "ALL enemies lose HP equal to their *Mark. NL Draw !M! cards."
+  }
+}
