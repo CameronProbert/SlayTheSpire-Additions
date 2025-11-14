@@ -12,7 +12,7 @@
     ]
   },
   "${modID}:ThisIsAKnifePower": {
-    "NAME": "This is a knife",
+    "NAME": "This is a Knife",
     "DESCRIPTIONS": [
       "Whenever a #yshiv is drawn, increase its damage by #b", "and draw #b", " cards."
     ]

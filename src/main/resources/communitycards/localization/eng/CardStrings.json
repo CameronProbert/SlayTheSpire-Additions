@@ -14,15 +14,15 @@
   },
   "${modID}:KiStrikesCard": {
     "NAME": "Ki Strikes",
-    "DESCRIPTION": "Whenever an enemy is attacked, apply !M! #bMark."
+    "DESCRIPTION": "Whenever an enemy is attacked, apply !M! *Mark."
   },
   "${modID}:ChakraRealignmentCard": {
     "NAME": "Chakra Realignment",
-    "DESCRIPTION": "Deal !D! damage. NL Apply Mark equal to unblocked damage dealt."
+    "DESCRIPTION": "Deal !D! damage. NL Apply *Mark equal to unblocked damage dealt."
   },
   "${modID}:AbsorbSpiritCard": {
     "NAME": "Absorb Spirit",
-    "DESCRIPTION": "Apply !M! Mark. NL Absorb 1 Health per !${modID}:MARK_PER_HP! Mark. NL *Exhaust"
+    "DESCRIPTION": "Apply !M! Mark. NL Absorb 1 Health per !${modID}:MARK_PER_HP! *Mark. NL *Exhaust"
   },
   "${modID}:FlickCard": {
     "NAME": "Flick",
