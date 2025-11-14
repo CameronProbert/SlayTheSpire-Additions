@@ -10,7 +10,7 @@
     "NAME": "Blood Money",
     "FLAVOR": "The disease of Midas flows through your veins.",
     "DESCRIPTIONS": [
-      "Whenever you lose HP, gain an equivalent amount of money."
+      "Whenever you lose HP in combat, gain an equivalent amount of money."
     ]
   },
   "${modID}:CombatManual": {
@@ -21,6 +21,14 @@
       "Choose a card for ",
       "Start each combat with ",
       " active."
+    ]
+  },
+  "${modID}:ElectricCompany": {
+    "NAME": "Electric Company",
+    "FLAVOR": "Pika-CHUUUU",
+    "DESCRIPTIONS": [
+      "Upon pickup, Replace all #yStrikes with #yZap",
+      "BZZZZZZZZZ"
     ]
   }
 }
