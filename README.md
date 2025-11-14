@@ -26,8 +26,9 @@ These are random ideas that I've implemented. Usually directly or adapted from c
 
 ### Boss
 
-- Combat Manual (Boss Relic): Upon pickup choose a power. Gain its effect at the beginning of combat. [Credit](https://www.reddit.com/r/slaythespire/comments/1n0teuj/boss_relic_idea_no_clue_if_its_weak_or_strong/)
+- Combat Manual: Upon pickup choose a power. Gain its effect at the beginning of combat. [Credit](https://www.reddit.com/r/slaythespire/comments/1n0teuj/boss_relic_idea_no_clue_if_its_weak_or_strong/)
 
 ### Uncommon
 
-- Blood Money (Uncommon): Whenever you lose HP, gain an equivalent amount of money.
+- Blood Money: Whenever you lose HP, gain an equivalent amount of money.
+- Electric Company (Watcher only) - On pickup, replace all strikes with zap.
