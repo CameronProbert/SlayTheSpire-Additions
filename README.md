@@ -31,4 +31,4 @@ These are random ideas that I've implemented. Usually directly or adapted from c
 ### Uncommon
 
 - Blood Money: Whenever you lose HP, gain an equivalent amount of money.
-- Electric Company (Watcher only) - On pickup, replace all strikes with zap.
+- Electric Company (Watcher only) - On pickup, replace all strikes with zap. [Credit](https://www.reddit.com/r/slaythespire/comments/1otwg9i/electric_orbs_go_brrrr/)
